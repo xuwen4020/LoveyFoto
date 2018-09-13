@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  Project
+
+  Created by xuwen on 2018/8/29.
+  Copyright © 2018年 com.Wudiyongshi.www. All rights reserved.
+*/
+///////////////-----主页-----///////////////
+"HOME" = "首頁";
+"HOT"  = "熱門";
+"COLUMN" = "專題";
+"Settings" = "設置";
+"More" = "更多";
+
+///////////////-----LIVE-----///////////////
+"RECOMMEND" = "推薦";
+"LOVE" = "愛情";
+"Update! View more wallpapers" = "Update! View more wallpapers";
+
+
+///////////////-----HOT-----///////////////
+"ANIMAL" = "動物";
+"PEOPLE" = "人物";
+"FOOD"  = "食物";
+
+///////////////-----Detail-----///////////////
+"Save pictures" = "保存圖片";
+"Save to iCloud" = "保存到 iCloud 雲盤";
+"Cancel" = "取消";
+"Collected successfully" = "收藏成功";
+"Save successfully" = "保存成功";  //保存成功
+"Fail" = "保存失敗";  //保存失败
+"Please turn on iCloud first" = "請先開啟iCloud 權限";
+"Wait Please" = "請等待";
+
+
+///////////////-----PURCHASE-----///////////////
+"Premium Access" = "高級訪問";
+"Massive wallpapers waiting for you" = "海量原創情侶壁紙等你";
+"Get updating wallpapers everyday" = "每天獲取更新的壁紙";
+"Immerse yourself in the fun of creating your own wallpapers" = "讓自己盡情投入到設計壁紙的樂趣中吧";
+
+"Unless the subscription is cancelled within 24 hours, or it will be auto- renewed for $0.99 a week and $49.99 a year.The subscription fee is charged to your iTunes account at confirmation of purchase.You may manage your subscription and turn off auto-renewal by going to your Setting after purchase. No cancellation of the current  subscription is allowed during active period." = "除非是在訂閱24小時內取消,否則會自動續訂,一周自動續訂為0.99美金,一年的續訂是49.99美金.訂閱費會在您確認後再iTunes 賬戶中扣除.你可以管理你的續訂,比如購買之後可以在設置中取消自動訂閱,但是取消當前訂閱無效.";
+
+"Privacy Policy" = "隱私協議";
+"Terms of Service" = "用戶協議";
+
+"TRY FOR FREE" = "免費試用";
+"$49.99/Year after 3" = "3天免費試用後只要$49.99一年";
+"$0.99/Week" = "$0.99/週";
+"$49.99/Year" = "$49.99/Year";
+"3 DAYS FREE TRIAL" = "3 DAYS FREE TRIAL";
+
+"Automatic deduction after trial" = "Automatic deduction after trial";
+"auto- renewed weekly" = "auto- renewed weekly";
+///////////////-----SETTINGS-----///////////////
+"We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M." = "我們每週會精心挑選一些非常適合的情侶壁紙,希望你會喜歡不用擔心由於經常使用我們的APP而佔用你的手機內存.我們會在緩存到200M的時候自動清理";
+"About us" = "關於我們";
+"About Lovey Foto" = "關於情侶壁紙";
+"My wallpapers" = "我收藏的壁紙";
+"Recover purchase in-app" = "恢復內購";
+"How to cancel renewal" = "怎麼取消續訂";
+"Suggestions" = "反饋建議";
+
+"Cancel it at anytime" = "随时取消它";
+"100% free during the trial period" = "試用期間100％免費";
+"You will never regret it" = "你永遠不會後悔";
+"Fail" = "失敗";
+"Success" = "成功";
+
+////////
+"Are you sure?" = "你確定？";
+"Start Free Trial Now!" = "立即開始免費試用！";

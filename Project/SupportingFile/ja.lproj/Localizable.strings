@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Project
+
+  Created by xuwen on 2018/8/29.
+  Copyright © 2018年 com.Wudiyongshi.www. All rights reserved.
+*/
+///////////////-----主页-----///////////////
+"HOME" = "ホーム";
+"HOT"  = "人気";
+"COLUMN" = "テーマ";
+"Settings" = "設定";
+"More" = "もっと";
+
+///////////////-----LIVE-----///////////////
+"RECOMMEND" = "おすすめ";
+"LOVE" = "愛";
+"Update! View more wallpapers" = "アップグレード！もっと多くの壁紙を見る";
+
+
+///////////////-----HOT-----///////////////
+"ANIMAL" = "動物";
+"PEOPLE" = "キャラクター";
+"FOOD"  = "食べ物";
+
+///////////////-----Detail-----///////////////
+"Save pictures" = "画像を保存する";
+"Save to iCloud" = "iCloudクラウドディスクに保存";
+"Cancel" = "キャンセル";
+"Collected successfully" = "コレクションの成功";
+"Save successfully" = "保存しました";  //保存成功
+//"Fail" = "Fail";  //保存失败
+"Please turn on iCloud first" = "まずiCloudの権限を有効にしてください";
+"Wait Please" = "お待ち下さい";
+
+
+///////////////-----PURCHASE-----///////////////
+"Premium Access" = "高度なアクセス";
+"Massive wallpapers waiting for you" = "あなたを待っている大規模な元のカップルの壁紙";
+"Get updating wallpapers everyday" = "毎日更新された壁紙を入手する";
+"Immerse yourself in the fun of creating your own wallpapers" = "あなた自身が壁紙のデザインの楽しみによって楽しませましょう。";
+
+"Unless the subscription is cancelled within 24 hours, or it will be auto- renewed for $0.99 a week and $49.99 a year.The subscription fee is charged to your iTunes account at confirmation of purchase.You may manage your subscription and turn off auto-renewal by going to your Setting after purchase. No cancellation of the current  subscription is allowed during active period." = "サブスクリプションから24時間以内にキャンセルされない限り、自動的に更新され、自動的に1週間に0.99ドルに更新され、49.99ドルで更新されます。 購入後の設定で自動購読をキャンセルするなど、更新しますが、現在の購読をキャンセルすることはできません。";
+
+"Privacy Policy" = "プライバシーに関する合意";
+"Terms of Service" = "利用規約";
+
+"TRY FOR FREE" = "無料トライアル";
+"$49.99/Year after 3" = "1年49.99ドルの3日間無料トライアル";
+"$0.99/Week" = "$0.99/週";
+"$49.99/Year" = "$49.99/Year";
+"3 DAYS FREE TRIAL" = "3 DAYS FREE TRIAL";
+
+"Automatic deduction after trial" = "Automatic deduction after trial";
+"auto- renewed weekly" = "auto- renewed weekly";
+///////////////-----SETTINGS-----///////////////
+"We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M." = "私たちは慎重にいくつかの非常に適したカップルの壁紙を毎週選んで、あなたは私たちのアプリの頻繁な使用のためにあなたの携帯電話のメモリを取り上げることを心配する必要はありません願って私たちは自動的に200Mにキャッシュするときにクリーンアップします。";
+"About us" = "私たちについて";
+"About Lovey Foto" = "カップルの壁紙について";
+"My wallpapers" = "私の好きな壁紙";
+"Recover purchase in-app" = "アプリ内購入の回収";
+"How to cancel renewal" = "更新をキャンセルする方法";
+"Suggestions" = "フィードバックの提案";
+"Recover purchase Fail" = "失敗";
+"Recover purchase Success" = "成功";
+
+"Cancel it at anytime" = "いつでもキャンセルしてください";
+"100% free during the trial period" = "試用期間中は100％無料";
+"You will never regret it" = "あなたはそれを後悔しません";
+"Fail" = "失敗";
+"Success" = "成功";
+
+////////
+"Are you sure?" = "本気ですか？";
+"Start Free Trial Now!" = "無料トライアルを今すぐ開始！";

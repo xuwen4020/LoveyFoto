@@ -1,0 +1,74 @@
+/*
+ Localizable.strings
+ Project
+ 
+ Created by xuwen on 2018/8/29.
+ Copyright © 2018年 com.Wudiyongshi.www. All rights reserved.
+ */
+///////////////-----主页-----///////////////
+"HOME" = "дома";
+"HOT"  = "ГОРЯЧИЙ";
+"COLUMN" = "тема";
+"Settings" = "устанавливать";
+"More" = "более";
+
+///////////////-----LIVE-----///////////////
+"RECOMMEND" = "рекомендация";
+"LOVE" = "любовь";
+"Update! View more wallpapers" = "Обновите!";
+
+///////////////-----HOT-----///////////////
+"ANIMAL" = "животное";
+"PEOPLE" = "фигура";
+"FOOD"  = "питание";
+
+///////////////-----Detail-----///////////////
+"Save pictures" = "Сохранить изображение";
+"Save to iCloud" = "Сохранить в облачный диск iCloud";
+"Cancel" = "отменен";
+"Collected successfully" = "Успешная коллекция";
+"Save successfully" = "Сохранено успешно";  //保存成功
+//"Fail" = "Ошибка сохранения";  //保存失败
+"Please turn on iCloud first" = "Сначала разрешите разрешения iCloud";
+"Wait Please" = "Подождите, пожалуйста";
+
+
+///////////////-----PURCHASE-----///////////////
+"Premium Access" = "Расширенный доступ";
+"Massive wallpapers waiting for you" = "Массивные обои оригинальной пары ждут вас";
+"Get updating wallpapers everyday" = "Получайте обновленные обои каждый день";
+"Immerse yourself in the fun of creating your own wallpapers" = "Позвольте себе развлечься забавой проектирования обоев";
+
+"Unless the subscription is cancelled within 24 hours, or it will be auto- renewed for $0.99 a week and $49.99 a year.The subscription fee is charged to your iTunes account at confirmation of purchase.You may manage your subscription and turn off auto-renewal by going to your Setting after purchase. No cancellation of the current  subscription is allowed during active period." = "Если он не будет отменен в течение 24 часов после подписки, он автоматически продлевается, автоматически возобновляется до 0,99 долл. США в неделю и продлевается за 49,99 долл. США в год. Абонентская плата будет вычтена из вашей учетной записи iTunes после ее подтверждения. Заменить, например, отменить автоматическую подписку в настройках после покупки, но отменить текущую подписку недействительно.";
+
+"Privacy Policy" = "Соглашение о конфиденциальности";
+"Terms of Service" = "Пользовательское соглашение";
+
+"TRY FOR FREE" = "Бесплатная пробная версия";
+"$49.99/Year after 3" = "3 дня бесплатной пробной версии за 49.99 долл. США в год";
+"$0.99/Week" = "$0.99/неделя";
+"$49.99/Year" = "$49.99/Year";
+"3 DAYS FREE TRIAL" = "3 DAYS FREE TRIAL";
+
+"Automatic deduction after trial" = "Automatic deduction after trial";
+"auto- renewed weekly" = "auto- renewed weekly";
+///////////////-----SETTINGS-----///////////////
+"We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M." = "Мы тщательно подбираем некоторые подходящие обои для обоев каждую неделю, надеюсь, вам не придется беспокоиться о том, чтобы забрать память вашего мобильного телефона из-за частого использования нашего приложения. Мы автоматически очистим, когда будем кэшировать до 200M.";
+"About us" = "О КОМПАНИИ";
+"About Lovey Foto" = "Около пары обои";
+"My wallpapers" = "Мои любимые обои";
+"Recover purchase in-app" = "Восстановление покупки в приложении";
+"How to cancel renewal" = "Как отменить продление";
+"Suggestions" = "Предложения обратной связи";
+"Recover purchase Fail" = "недостаточность";
+"Recover purchase Success" = "успех";
+
+"Cancel it at anytime" = "Отменить его в любое время";
+"100% free during the trial period" = "100% gratuit pendant la période d'essai";
+"You will never regret it" = "Вы никогда не пожалеете об этом";
+"Fail" = "недостаточность";
+"Success" = "успех";
+
+////////
+"Are you sure?" = "Ты уверен?";
+"Start Free Trial Now!" = "Начните бесплатную пробную версию!";

@@ -1,0 +1,74 @@
+/*
+ Localizable.strings
+ Project
+ 
+ Created by xuwen on 2018/8/29.
+ Copyright © 2018年 com.Wudiyongshi.www. All rights reserved.
+ */
+///////////////-----主页-----///////////////
+"HOME" = "Inicio";
+"HOT"  = "Popular";
+"COLUMN" = "Tema";
+"Settings" = "Ajuste";
+"More" = "más";
+
+///////////////-----LIVE-----///////////////
+"RECOMMEND" = "Recomendado";
+"LOVE" = "Amor";
+"Update! View more wallpapers" = "Actualizar! Ver más fondos de pantalla";
+
+///////////////-----HOT-----///////////////
+"ANIMAL" = "Animal";
+"PEOPLE" = "Carácter";
+"FOOD"  = "Comida";
+
+///////////////-----Detail-----///////////////
+"Save pictures" = "Guardar imagen";
+"Save to iCloud" = "Guardar en el disco de la nube de iCloud";
+"Cancel" = "Cancelar";
+"Collected successfully" = "Exitosa colección";
+"Save successfully" = "Guardado con éxito";  //保存成功
+//"Fail" = "保存失败";  //保存失败
+"Please turn on iCloud first" = "Primero habilite los permisos de iCloud";
+"Wait Please" = "Espere por favor";
+
+
+///////////////-----PURCHASE-----///////////////
+"Premium Access" = "Acceso avanzado";
+"Massive wallpapers waiting for you" = "Fondo de pantalla gigante original esperando por ti";
+"Get updating wallpapers everyday" = "Obtenga fondos de pantalla actualizados todos los días";
+"Immerse yourself in the fun of creating your own wallpapers" = "Déjese entretener por la diversión de diseñar fondos de pantalla.";
+
+"Unless the subscription is cancelled within 24 hours, or it will be auto- renewed for $0.99 a week and $49.99 a year.The subscription fee is charged to your iTunes account at confirmation of purchase.You may manage your subscription and turn off auto-renewal by going to your Setting after purchase. No cancellation of the current  subscription is allowed during active period." = "A menos que se cancele dentro de las 24 horas de la suscripción, se renovará automáticamente, se renovará automáticamente a $ 0,99 por semana y se renovará por $ 49.99 al año. La tarifa de suscripción se descontará de su cuenta de iTunes después de confirmarla. Puede administrar su Renovar, como cancelar la suscripción automática en la configuración después de la compra, pero cancelar la suscripción actual no es válida.";
+
+"Privacy Policy" = "Acuerdo de privacidad";
+"Terms of Service" = "Acuerdo de usuario";
+
+"TRY FOR FREE" = "Prueba gratuita";
+"$49.99/Year after 3" = "3 días de prueba gratis por $ 49.99 al año";
+"$0.99/Week" = "$0.99/Semana";
+"$49.99/Year" = "$49.99/Year";
+"3 DAYS FREE TRIAL" = "3 DAYS FREE TRIAL";
+
+"Automatic deduction after trial" = "Automatic deduction after trial";
+"auto- renewed weekly" = "auto- renewed weekly";
+///////////////-----SETTINGS-----///////////////
+"We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M." = "We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M.";
+"About us" = "Sobre nosotros";
+"About Lovey Foto" = "Acerca del fondo de la pareja";
+"My wallpapers" = "Mi fondo de pantalla favorito";
+"Recover purchase in-app" = "Recuperación de la compra en la aplicación";
+"How to cancel renewal" = "Cómo cancelar la renovación";
+"Suggestions" = "Sugerencias de comentarios";
+"Recover purchase Fail" = "Falla";
+"Recover purchase Success" = "Éxito";
+
+"Cancel it at anytime" = "Cancélelo en cualquier momento";
+"100% free during the trial period" = "100% gratis durante el período de prueba";
+"You will never regret it" = "Nunca lo lamentarás";
+"Fail" = "Falla";
+"Success" = "Éxito";
+
+////////
+"Are you sure?" = "¿Estás seguro?";
+"Start Free Trial Now!" = "¡Comienza la prueba gratuita ahora!";

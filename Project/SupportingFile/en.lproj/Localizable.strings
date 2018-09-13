@@ -1,0 +1,76 @@
+/* 
+  Localizable.strings
+  Project
+
+  Created by xuwen on 2018/8/29.
+  Copyright © 2018年 com.Wudiyongshi.www. All rights reserved.
+*/
+///////////////-----主页-----///////////////
+"HOME" = "HOME";
+"HOT"  = "HOT";
+"COLUMN" = "COLUMN";
+"Settings" = "Settings";
+"More" = "More";
+
+///////////////-----LIVE-----///////////////
+"RECOMMEND" = "RECOMMEND";
+"LOVE" = "LOVE";
+"Update! View more wallpapers" = "Update! View more wallpapers";
+
+
+///////////////-----HOT-----///////////////
+"ANIMAL" = "ANIMAL";
+"PEOPLE" = "PEOPLE";
+"FOOD"  = "FOOD";
+
+///////////////-----Detail-----///////////////
+"Save pictures" = "Save pictures";
+"Save to iCloud" = "Save to iCloud";
+"Cancel" = "Cancel";
+"Collected successfully" = "Collected successfully";
+"Save successfully" = "Save";  //保存成功
+//"Fail" = "Fail";  //保存失败
+"Please turn on iCloud first" = "Please turn on iCloud first";
+"Wait Please" = "Wait Please";
+
+
+///////////////-----PURCHASE-----///////////////
+"Premium Access" = "Premium Access";
+"Massive wallpapers waiting for you" = "Massive wallpapers waiting for you";
+"Get updating wallpapers everyday" = "Get updating wallpapers everyday";
+"Immerse yourself in the fun of creating your own wallpapers" = "Immerse yourself in the fun of creating your own wallpapers";
+
+"Unless the subscription is cancelled within 24 hours, or it will be auto- renewed for $0.99 a week and $49.99 a year.The subscription fee is charged to your iTunes account at confirmation of purchase.You may manage your subscription and turn off auto-renewal by going to your Setting after purchase. No cancellation of the current  subscription is allowed during active period." = "Unless the subscription is cancelled within 24 hours, or it will be auto- renewed for $0.99 a week and $49.99 a year.The subscription fee is charged to your iTunes account at confirmation of purchase.You may manage your subscription and turn off auto-renewal by going to your Setting after purchase. No cancellation of the current  subscription is allowed during active period.";
+
+"Privacy Policy" = "Privacy Policy";
+"Terms of Service" = "Terms of Service";
+
+"TRY FOR FREE" = "TRY FOR FREE";
+"$49.99/Year after 3" = "$49.99/Year after 3 days";
+"$0.99/Week" = "$0.99/Week";
+"$49.99/Year" = "$49.99/Year";
+"3 DAYS FREE TRIAL" = "3 DAYS FREE TRIAL";
+
+"Automatic deduction after trial" = "Automatic deduction after trial";
+"auto- renewed weekly" = "auto- renewed weekly";
+
+///////////////-----SETTINGS-----///////////////
+"We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M." = "We carefully select some very suitable couple wallpapers for you every week, I hope you will not worry about taking up your mobile phone memory because of the frequent use of our app. We will automatically clean up when it caches to 200M.";
+"About us" = "About us";
+"About Lovey Foto" = "About Lovey Foto";
+"My wallpapers" = "My wallpapers";
+"Recover purchase in-app" = "Recover purchase in-app";
+"How to cancel renewal" = "How to cancel renewal";
+"Suggestions" = "Suggestions";
+"Recover purchase Fail" = "Recover purchase Fail";
+"Recover purchase Success" = "Recover purchase Successl";
+
+"Cancel it at anytime" = "Cancel it at anytime";
+"100% free during the trial period" = "100% free during the trial period";
+"You will never regret it" = "You will never regret it";
+"Fail" = "Fail";
+"Success" = "Success";
+
+////////
+"Are you sure?" = "Are you sure?";
+"Start Free Trial Now!" = "Start Free Trial Now!";
